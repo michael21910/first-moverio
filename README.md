@@ -1,2 +1,2 @@
-# first-moverio
+# First Moverio
 A moverioSDK default setup for AR EPSON glasses
